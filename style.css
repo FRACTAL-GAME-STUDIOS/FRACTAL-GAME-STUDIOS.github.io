@@ -30,7 +30,7 @@ body, html {
    transform: translateX(-100%);
 }
 
-.fa-brands {
+.fa-brands, .fa-solid {
    font-size: 4vw;
    color: #fff;
    transition: filter 0.4s;
